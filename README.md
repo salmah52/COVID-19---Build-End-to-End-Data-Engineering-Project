@@ -20,6 +20,7 @@ Welcome to my data engineering project, where i build a comprehensive COVID-19 a
 
 The COVID-19 pandemic has created an urgent need for data-driven insights. In response, i embarked on a data engineering project to build an analytics platform. Our platform leverages AWS services to enable data acquisition, processing, and analysis.
 
+
 ## Architecture Diagram
 
 <img width="596" alt="image" src="https://github.com/salmah52/COVID-19---Build-End-to-End-Data-Engineering-Project/assets/44398948/29ff6b04-e742-4ee2-9c18-18429305cb65">
