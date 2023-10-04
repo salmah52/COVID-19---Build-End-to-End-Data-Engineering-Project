@@ -2,7 +2,7 @@
 
 # Data Engineering Project: Building a COVID-19 Analytics Platform
 
-Welcome to our data engineering project, where we build a comprehensive COVID-19 analytics platform. In this project, we'll walk you through the entire process, from data acquisition to data analysis and visualization.
+Welcome to my data engineering project, where i build a comprehensive COVID-19 analytics platform. In this project, i'll walk you through the entire process, from data acquisition to data analysis and visualization.
 
 ## Table of Contents
 
@@ -17,11 +17,11 @@ Welcome to our data engineering project, where we build a comprehensive COVID-19
 
 ## Introduction
 
-The COVID-19 pandemic has created an urgent need for data-driven insights. In response, we embarked on a data engineering project to build an analytics platform. Our platform leverages AWS services to enable data acquisition, processing, and analysis.
+The COVID-19 pandemic has created an urgent need for data-driven insights. In response, i embarked on a data engineering project to build an analytics platform. Our platform leverages AWS services to enable data acquisition, processing, and analysis.
 
 ## Relational Data Model
 
-To organize and manage our data, we have designed a relational data model. This model defines the structure of our database, including tables, primary keys, and relationships. We'll explain the model and its components in detail.
+To organize and manage our data, i  designed a relational data model. This model defines the structure of our database, including tables, primary keys, and relationships.
 
 ## Connecting Athena for Data Querying
 
