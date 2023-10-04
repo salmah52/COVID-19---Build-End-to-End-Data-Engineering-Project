@@ -7,17 +7,22 @@ Welcome to my data engineering project, where i build a comprehensive COVID-19 a
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Relational Data Model](#relational-data-model)
-3. [Connecting Athena for Data Querying](#connecting-athena-for-data-querying)
-4. [Implementing an ETL Job in Python](#implementing-an-etl-job-in-python)
-5. [Saving Results to Amazon S3](#saving-results-to-amazon-s3)
-6. [Building Tables on Amazon Redshift](#building-tables-on-amazon-redshift)
-7. [Copying Data to Amazon Redshift](#copying-data-to-amazon-redshift)
-8. [Conclusion](#conclusion)
+2. [Architecture Diagram](#Architecture-Diagram).
+3. [Relational Data Model](#relational-data-model)
+4. [Connecting Athena for Data Querying](#connecting-athena-for-data-querying)
+5. [Implementing an ETL Job in Python](#implementing-an-etl-job-in-python)
+6. [Saving Results to Amazon S3](#saving-results-to-amazon-s3)
+7. [Building Tables on Amazon Redshift](#building-tables-on-amazon-redshift)
+8. [Copying Data to Amazon Redshift](#copying-data-to-amazon-redshift)
+9. [Conclusion](#conclusion)
 
 ## Introduction
 
 The COVID-19 pandemic has created an urgent need for data-driven insights. In response, i embarked on a data engineering project to build an analytics platform. Our platform leverages AWS services to enable data acquisition, processing, and analysis.
+
+## Architecture Diagram
+
+<img width="596" alt="image" src="https://github.com/salmah52/COVID-19---Build-End-to-End-Data-Engineering-Project/assets/44398948/29ff6b04-e742-4ee2-9c18-18429305cb65">
 
 ## Relational Data Model
 
