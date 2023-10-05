@@ -1,4 +1,6 @@
-# COVID-19---Build-End-to-End-Data-Engineering-Project
+# COVID-19
+
+## ---Build-End-to-End-Data-Engineering-Project
 
 ## Data Engineering Project: Building a COVID-19 Analytics Platform
 
